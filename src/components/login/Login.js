@@ -6,7 +6,7 @@ import logoLN from '../../assets/Logo.png';
 export const Login = () => {
     return (
         <div className="Login">
-            <img src={logoLN} className="App-logo" alt="logo" />
+            <img src={logo} className="App-logo" alt="logo" />
             <h1>QUICK NOTES
                 <br></br>
             </h1>
