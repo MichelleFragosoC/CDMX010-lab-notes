@@ -38,5 +38,8 @@
 }*/
 
 body {
-  background-color: #d468e7;
+    background: #159957;  
+    background: -webkit-linear-gradient(to left, #155799, #159957);  
+    background: linear-gradient(to left, #155799, #159957); 
+  /* background-color: #d468e7; */
 }
