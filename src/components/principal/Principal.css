@@ -1,7 +1,15 @@
-body{
+.containerPrincipal {
+    text-align: center;
+}
+
+.principal-logo {
+    height: 20vmin;
+    pointer-events: none;
+}
+
+body {
     background: #159957;  
     background: -webkit-linear-gradient(to left, #155799, #159957);  
     background: linear-gradient(to left, #155799, #159957); 
-
+  /* background-color: #d468e7; */
 }
-
